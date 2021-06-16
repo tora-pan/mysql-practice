@@ -27,7 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projects\\ConnectingToMySQL\\DataLibrary\\DataLibrary.csproj": {
+                "projectPath": "C:\\Projects\\ConnectingToMySQL\\DataLibrary\\DataLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,6 +63,16 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Projects\\ConnectingToMySQL\\DataLibrary\\DataLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\ConnectingToMySQL\\DataLibrary\\DataLibrary.csproj",
+        "projectName": "DataLibrary",
+        "projectPath": "C:\\Projects\\ConnectingToMySQL\\DataLibrary\\DataLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
